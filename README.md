@@ -21,24 +21,24 @@ Al iniciar el programa se solicita al usuario seleccionar una opción de convers
 ![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/Men%C3%BA%20de%20inicio.jpg)
 
 Después se solicita agregar la cantidad de dinero en caso de haber elegido conversor de moneda o grados de temperatura en caso de haber elegido conversor de temperatura
-
-![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/Ingresar%20Cantidad.jpg)
+    
+![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/Ingresar%20Cantidad.jpg)
 
 Si se eligió conversor de moneda se deberá seleccionar entre las distintas opciones de conversión de moneda
 
-![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/Seleccion.jpg)
+![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/Seleccion.jpg)
 
 Posteriormente se mostrará el resultado de la conversión
 
-![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/Resultado.jpg)
+![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/Resultado.jpg)
 
 Por último se preguntará si desea continuar en el programa
 
-![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/Continuar.jpg)
+![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/Continuar.jpg)
 
 En caso de continuar en el programa se iniciará de nuevo en la primer pantalla, en el caso de elegir no continuar se mostrará una ventana indicando el fin del programa
 
-![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/Fin.jpg)
+![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/Fin.jpg)
 
 # Tecnologías utilizadas
 
