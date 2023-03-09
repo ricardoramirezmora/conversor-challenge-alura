@@ -1,6 +1,6 @@
 # Conversor de Monedas y Temperatura
 
-![](https://github.com/ricardoramirezmora/prueba/blob/master/divisas%20(1).png)
+![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/divisas%20(1).png)
 
 # Indice
 
