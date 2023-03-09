@@ -18,7 +18,7 @@ Este programa realiza la conversión de pesos mexicanos a distintos tipos de mon
 # Funcionamiento
 Al iniciar el programa se solicita al usuario seleccionar una opción de conversion, ya sea conversor de moneda o conversor de temperatura.
 
-![](https://github.com/ricardoramirezmora/prueba/blob/master/Men%C3%BA%20de%20inicio.jpg)
+![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/Men%C3%BA%20de%20inicio.jpg)
 
 Despues se solicita agregar la cantidad de dinero en caso de haber elegido conversor de moneda o grados de temperatura en caso de haber elegido conversor de temperatura
 
