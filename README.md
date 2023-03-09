@@ -1,7 +1,7 @@
 # Conversor de Monedas y Temperatura
 
 ![](https://github.com/ricardoramirezmora/conversor-challenge-alura/blob/master/ConversorDeMonedas/divisas%20(1).png)
-
+![](https://play-lh.googleusercontent.com/SdjoTwbK9oG3fgssN8Q_ikz2cLj0L3hlfBisOgzQcOXvDq21LeQHZ0EU9E8FIonAJ14=s128-h480-rw)
 # Índice
 
 - Descripción del Proyecto
