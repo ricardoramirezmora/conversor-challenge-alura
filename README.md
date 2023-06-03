@@ -48,3 +48,5 @@ En caso de continuar en el programa se iniciará de nuevo en la primer pantalla,
 
 | [<img src="https://avatars.githubusercontent.com/u/122123239?v=4" width=115><br><sub>Ricardo Ramirez</sub>](https://github.com/ricardoramirezmora) |  
 | :---: |
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ramirez-mora/)
